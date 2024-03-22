@@ -1,0 +1,29 @@
+stha 	 4
+lays : 1
+Total Bill:  50.00
+
+arekh 	 9865248127
+lays : 1
+pen : 2
+Total Bill:  70.00
+
+arekh 	 98651727272
+lays : 1
+Total Bill:  50.00
+
+arekh 	 999
+lays : 1
+Total Bill:  50.00
+
+arekh 	 222
+lays : 1
+Total Bill:  50.00
+
+arekh 	 72772
+chips : 1
+lays : 2
+Total Bill:  120.00
+
+arekh 	 9865248127
+lays : 1
+Total Bill:  40.00
