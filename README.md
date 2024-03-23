@@ -48,6 +48,11 @@ Default password to access admin section is "password".
 ## Dependencies
 - C compiler (e.g. GCC)
 
+
+## Flowchart
+![App Screenshot](https://github.com/sthaarekh/inventoryManagementSystem/blob/main/Flowchart.png)
+
+
 ## Contributing
 Pull requests are welcome. Please follow these guidelines:
 - Include clear and concise descriptions of your changes.
